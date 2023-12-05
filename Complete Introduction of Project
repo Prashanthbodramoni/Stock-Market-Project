@@ -1,0 +1,43 @@
+The term stock market refers to several exchanges in which shares of publicly held companies are bought and sold. 
+Such financial activities are conducted through formal exchanges and via marketplaces that operate under a defined set of regulations. 
+The stock market allows buyers and sellers of securities to meet, interact, and transact. 
+The markets allow for price discovery for shares of corporations and serve as a barometer for the overall economy. 
+Buyers and sellers are assured of a fair price, high degree of liquidity, and transparency as market participants compete in the open market. 
+Stock markets provide a secure and regulated environment where market participants can transact in shares and other eligible financial instruments with confidence, 
+with zero to low operational risk. Operating under the defined rules as stated by the regulator, the stock markets act as primary markets and secondary markets.
+
+Machine-learning technology powers many aspect of modern society: from web searches to content filtering on social networks to recommendations on e-commerce websites, 
+and it is increasingly present in consumer products such as cameras and smartphones. Machine-learning systems are used to identify objects in images, 
+transcribe speech into text, match news items, posts or products with users’ interests, and select relevant results of search. Increasingly, 
+these applications make use of a class of techniques called deep learning. 
+Conventional machine-learning techniques were limited in their ability to process natural data in their raw form. For decades, 
+constructing a pattern-recognition or machine-learning system required careful engineering and considerable domain expertise to design a feature extractor 
+that transformed the raw data (such as the pixel values of an image) into a suitable internal representation or feature vector from which the learning subsystem, 
+often a classifier, could detect or classify patterns in the input. 
+Representation learning is a set of methods that allows a machine to be fed with raw data and to automatically discover the representations needed for detection or classification.
+
+Stock Price Prediction using machine learning helps you discover the future value of company stock and other financial assets traded on an exchange. 
+The entire idea of predicting stock prices is to gain significant profits. Predicting how the stock market will perform is a hard task to do. 
+There are other factors involved in the prediction, such as physical and psychological factors, rational and irrational behavior, and so on. 
+All these factors combine to make share prices dynamic and volatile. This makes it very difficult to predict stock prices with high accuracy.
+
+Decision Tree:
+
+Decision Tree is a common supervised learning approach employed for both regression and classification problems. 
+The goal of technique is forecasting a target by using easy decision rules shaped from the dataset and related features. 
+Being easy to interpret or able to solve problems with different outputs are two advantages of using this model; on the contrary, 
+constructing over-complex trees that cause overfitting is a typical disadvantage.
+
+Random Forest:
+
+Great number of decision trees make a random forest model. The model basically averages the forecast result of trees, which is named a forest. Also, 
+the algorithm includes three random ideas, selecting training data randomly when forming trees, randomly choosing some subsets of variables when dividing nodes 
+and deeming only a subset of all variables for splitting every node in each basic decision tree. 
+Every basic tree learns from a random sample of the dataset during the training process of a random forest.
+
+K Nearest Neighbors:
+
+Two properties usually are suggested for KNN, lazy learning and non-parametric algorithm, because there is not any assumption for underlying data distribution by KNN.
+The method follows some steps to find targets: Dividing dataset into training and test data, selecting the value of K, determining which distance function should be used,
+choosing a sample from test data (as a new sample) and computing the distance to its n training samples, sorting distances gained and taking k-nearest data samples, 
+and finally, assigning the test class to the sample on the majority vote of its k neighbors.
